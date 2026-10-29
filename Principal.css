@@ -1,0 +1,44 @@
+body{
+border: 3px solid darkblue;
+margin: auto;
+width: 800px;
+padding: 0 10px;
+background-image:url(Imagenes/Fondo\ pricipal.jpg);
+background-repeat:no-repeat;
+background-position: center ;
+background-size:cover ;
+background-attachment: fixed;
+}
+h1{
+Color:white;
+font-size: 20px;
+padding: 10px 20px 30px 40px;
+text-align: center;
+margin-bottom: 0;
+}
+ol :hover{
+padding: 0;
+
+}
+li{
+    margin: top 0; 
+    background-color: white;
+    display: inline-block;
+    width: 24%;
+    color:black;
+    text-align: center;
+    border: 1px solid black;
+    
+}
+h2{
+text-align: center;
+color: white;
+}
+section{
+display: inline-block;
+color: white;
+}
+p{
+color: white;
+}
+
